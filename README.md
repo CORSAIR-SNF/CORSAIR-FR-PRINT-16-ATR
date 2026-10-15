@@ -1,6 +1,6 @@
 # About
 
-This repository contains the data and python scripts for my project about the attribution of Adversissemens necessaires (1581) to Lancelot Voisin de La Popelinière. This research in financed by SNF as a doctoral project.
+This repository contains the data and python scripts for my project about the attribution of Advertissemens necessaires (1581) to Lancelot Voisin de La Popelinière (project Loki). This research in financed by SNF as a doctoral project.
 
 # Contents
 
