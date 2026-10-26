@@ -13,91 +13,90 @@ automatically-aligned: false
 characters:
   members:
   - e
-  - a
-  - s
-  - r
-  - i
-  - n
   - u
+  - a
+  - r
+  - n
+  - i
   - t
   - o
   - l
+  - s
+  - ſ
   - d
-  - .
-  - m
   - c
   - p
-  - "'"
-  - v
-  - ́
+  - m
+  - ','
   - q
   - f
-  - ','
+  - ’
   - g
-  - h
-  - ^
-  - b
-  - '1'
-  - j
-  - x
   - y
-  - C
-  - M
-  - D
-  - ̀
-  - '2'
-  - '0'
-  - '7'
-  - L
-  - '3'
-  - ;
-  - '6'
-  - B
-  - '4'
-  - '5'
-  - –
-  - E
-  - ̂
-  - S
-  - I
-  - '8'
-  - P
-  - '9'
-  - R
-  - A
-  - T
-  - z
-  - ̈
-  - J
-  - N
+  - v
   - '&'
-  - '%'
-  - F
-  - G
-  - ⟦
-  - ⟧
-  - Q
   - ¬
-  - O
-  - ̧
-  - V
-  - (
+  - h
+  - b
+  - .
+  - ́
+  - x
+  - ̀
   - ̃
-  - °
-  - )
+  - R
+  - C
   - ':'
-  - /
-  - ※
+  - E
+  - I
+  - A
+  - z
+  - P
+  - M
+  - S
+  - D
+  - L
+  - F
+  - V
+  - j
+  - G
+  - ̧
+  - T
+  - "'"
+  - '0'
+  - B
   - H
+  - N
   - '-'
-  - ꝓ
-  - '['
-  - ']'
-  - ⎀
-  - Z
-  - U
+  - )
+  - (
+  - ̈
+  - O
+  - '1'
   - X
+  - '2'
+  - Q
+  - '5'
+  - œ
+  - '3'
+  - '?'
+  - '4'
+  - '6'
+  - '8'
+  - '7'
+  - '9'
+  - Y
+  - Z
   - k
+  - U
+  - ;
+  - ̂
+  - '"'
+  - J
+  - $
+  - ¨
+  - ꝰ
+  - K
+  - ꝗ
   mode: NFD
 description: Dataset to test HTR-models, trained with the MEGV-FR-MSS-18 data sets.
 format: Alto-XML
@@ -124,11 +123,11 @@ title: MEGV-FR-MSS-18-TEST
 transcription-guidelines: 'https://hal.science/CESR/hal-04801645v1 '
 url: https://github.com/Masculinites-Esclavagistes/MEGV-FR-MSS-18-TEST
 volume:
-- count: 18055
+- count: 166889
   metric: characters
-- count: 11
+- count: 99
   metric: files
-- count: 446
+- count: 3994
   metric: lines
-- count: 44
+- count: 565
   metric: regions
