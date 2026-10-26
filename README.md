@@ -1,5 +1,8 @@
 # CORSAIR-FR-PRINT-16 – ATR data for 16th c. French prints
 
+![characters badge](badges/characters.svg) ![regions badge](badges/regions.svg) ![lines badge](badges/lines.svg) ![files badge](badges/files.svg)
+
+
 ## About
 
 This repository contains groundtruth for ATR dedicated to 16th c. French prints. Data is distributed in ALTO-XML.
