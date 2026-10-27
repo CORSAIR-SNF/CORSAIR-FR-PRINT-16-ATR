@@ -21,7 +21,7 @@ Impostors :
 
 ## How to cite
 
-Mélinda Fleury, _CORSAIR-FR-PRINT-16 – ATR data for 16th c. French prints_, GitHub, \[URL\]
+Mélinda Fleury, _CORSAIR-FR-PRINT-16 – ATR, GitHub, \[URL\]
  
 ## Licences
 
@@ -31,4 +31,4 @@ Transcriptions are CC-BY. Images belong to the library and any user has to respe
 
 ## Funding
 
-Ce projet est financé par le Fonds national suisse (FNS). Numéro de projet : [205056](https://data.snf.ch/grants/grant/205056).
+This project is founded by the Swiss National Found (SNF) : [222557]. https://data.snf.ch/grants/grant/222557
