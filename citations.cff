@@ -1,35 +1,28 @@
 cff-version: 1.0
-title: MEGV-FR-MSS-18-TEST
+title: CORSAIR-FR-PRINT-16-ATR
 type: dataset
 message: >-
   If you use this dataset, please cite it using the
   metadata from this file.
 authors:
-  - family-names: Philip
-    given-names: Marion
-    email: marion.philip@unige.ch
+  - family-names: Fleury
+    given-names: Melinda
+    email: melinda.fleury@unige.ch
     affiliation: University of Geneva
-    orcid: 0009-0001-6846-2688
+    orcid: 0009-0001-3428-9039
   - family-names: Gabay
     given-names: Simon
     email: simon.gabay@unige.ch
     affiliation: University of Geneva
     orcid: 0000-0001-9094-4475
 
-project manager: 
-  - family-names: Houllemare
-    given-names: Marie
-    email: marie.houllemare@unige.ch
-    affiliation: University of Geneva
-    orcid: 0000-0002-9120-8944
-
 keywords:
   - HTR
   - french
   - modern
-  - manuscripts
-  - justice
-  - correspondence
-date-released: 2024-05-04
-url: 'https://github.com/Masculinites-Esclavagistes/MEGV-FR-MSS-18-TEST'
+  - print
+  - history
+  - historiography
+date-released: 2026-05-04
+url: 'https://github.com/CORSAIR-SNF/CORSAIR-FR-PRINT-16-ATR'
 version: 1.0
