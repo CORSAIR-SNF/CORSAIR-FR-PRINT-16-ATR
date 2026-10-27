@@ -1,9 +1,9 @@
 authors:
-- name: Marion
-  orcid: 0009-0001-6846-2688
+- name: Melinda
+  orcid: 0009-0001-3428-9039
   roles:
   - transcriber
-  surname: Philip
+  surname: Fleury
 - name: Simon
   orcid: 0000-0001-9094-4475
   roles:
@@ -98,30 +98,29 @@ characters:
   - K
   - ꝗ
   mode: NFD
-description: Dataset to test HTR-models, trained with the MEGV-FR-MSS-18 data sets.
+description: Dataset of 16th century french prints for a stylometry project of CORSAIR Project,
 format: Alto-XML
 hands:
   count: unknown
   precision: exact
-institutions: []
+institutions: University of Geneva & SNF
 language:
 - fra
 license:
   name: CC-BY 4.0
   url: https://creativecommons.org/licenses/by/4.0/
 production-software: eScriptorium + Kraken
-project-name: MEGV project
-project-website: https://www.unige.ch/masculinitesesclavagistes/
-schema: https://htr-united.github.io/schema/2023-06-27/schema.json
+project-name: CORSAIR Project part of SNF no 222557
+project-website: https://data.snf.ch/grants/grant/222557
+schema:
 script:
 - iso: Latn
-script-type: only-manuscript
+script-type: prints
 time:
-  notAfter: '1800'
-  notBefore: '1700'
-title: MEGV-FR-MSS-18-TEST
-transcription-guidelines: 'https://hal.science/CESR/hal-04801645v1 '
-url: https://github.com/Masculinites-Esclavagistes/MEGV-FR-MSS-18-TEST
+  notAfter: '1611'
+  notBefore: '1560'
+title: CORSAIR-FR-PRINT-16-ATR
+url:
 volume:
 - count: 166889
   metric: characters
